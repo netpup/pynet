@@ -1,0 +1,63 @@
+
+cisco3 (Cisco IOS-XE)
+    hostname = cisco3.lasthop.io
+    snmp_port = 161
+    ssh_port = 22
+    username = catchme
+    password = ifyoucan
+
+cisco4 (Cisco IOS-XE)
+    hostname = cisco4.lasthop.io
+    snmp_port = 161
+    ssh_port = 22
+    username = catchme
+    password = ifyoucan
+
+arista1 (Arista vEOS switch)
+    hostname = arista1.lasthop.io
+    ssh_port = 22
+    eapi_port = 443
+    username = catchme
+    password = ifyoucan
+
+arista2 (Arista vEOS switch) 
+    hostname = arista2.lasthop.io
+    ssh_port = 22
+    eapi_port = 443
+    username = catchme
+    password = ifyoucan
+
+arista3 (Arista vEOS switch) 
+    hostname = arista3.lasthop.io
+    ssh_port = 22
+    eapi_port = 443
+    username = catchme
+    password = ifyoucan
+
+arista4 (Arista vEOS switch)
+    hostname = arista4.lasthop.io
+    ssh_port = 22
+    eapi_port = 443
+    username = catchme
+    password = ifyoucan
+
+srx2 (Juniper SRX)
+    hostname = srx2.lasthop.io
+    ssh_port = 22
+    netconf_port = 830
+    username = catchme
+    password = ifyoucan
+
+nxos1 (NX-OSv Switch)
+    hostname = nxos1.lasthop.io
+    ssh_port = 22
+    nxapi_port = 8443
+    username = catchme
+    password = ifyoucan
+
+nxos2 (NX-OSv Switch)
+    hostname = nxos2.lasthop.io
+    ssh_port = 22
+    nxapi_port = 8443
+    username = catchme
+    password = ifyoucan
